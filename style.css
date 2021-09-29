@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+#head{
+	width: auto;
+	height: 7%;
+	text-align: center;
+	color: white;
+	background-color: rgba(8,98,27,1.00);
+}
+
+#menu button{
+	width: auto;
+	height: auto;
+	color: white;
+
+}
+
+#menu button:hover{
+	color: black;
+	background-color: white;
+}
+
+.avata{
+	width: 100%;
+	height: 15%;
+	text-align: center;
+	color: white;
+	background-color: rgba(26,151,56,0.92);
+}
+
+.avata img{
+	width: 30%;
+	height: 30%;
+	border-radius: 50%;
+}
+
+.avata h3{
+	margin-top: 7px;
+}
+
+.body{
+	width: 100%;
+	height: auto;
+	background-color: rgba(28,23,24,0.91);
+}
+
+.body .card{
+	width: 100%;
+	height: auto;
+	margin-top: 5%;
+	border: 1px solid black;
+	border-radius: 18px;
+}
+.body .card img{
+	border: 1px solid black;
+	border-radius: 17px;
+}
+
+#description{
+	background-color: rgba(26,151,56,0.92);
+	width: 100%;
+	height: auto;
+	text-align: center;
+	color: white;
+}
+
+#desrciption #left{
+	height: 100%;
+}
+
+#description #dowload{
+	margin-left: 45%;
+	color: white;
+	border: 1px solid black;
+	border-radius: 5px; 
+}
+
+#description #dowload:hover{
+	background-color: black;
+}
+
+#form_set{
+	width: auto;
+	height: auto;
+	background-color: rgba(67,67,67,1.00);
+}
+
+#form_set h1{
+	text-align: center;
+	color: white;
+}
+
+#form_set label{
+	color: white;
+}
+
+#from_set #text{
+	height: 25rem;
+}
+
+#foot{
+	background-color: rgba(72,134,92,1.00);
+	color: white;
+	text-align: center;
+}
+
+#list_f img{
+	width: 5rem;
+	height: 5rem;
+	margin-top: 50%;
+	border: 1px solid rgba(72,134,92,1.00);
+	border-radius: 50%;
+}
+
+#list_f img:hover{
+	background-color: white;
+}
